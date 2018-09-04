@@ -1,0 +1,47 @@
+body {
+    height:100vh;
+    width:100vw;
+    padding:25px
+
+}
+.container {
+    height: 100vh;
+    width: 100vw;
+}
+.nav {
+    justify-content: left;
+}
+.nav-wrapper {
+    background-color: orangered;
+
+}
+.brand-logo {
+    margin-left: 40px;
+}
+.resumeLink a {
+    color:orangered;
+    font-size: 24pt;
+}
+.port-thumbs img {
+    width: 270px;
+    height: 180px;
+    margin: 25px;
+    
+}
+.portfolio {
+    display:flex;
+    flex-direction: column;
+    justify-content: left;
+}
+.port-thumbs {
+    display:flex;
+    flex-direction: column;
+}
+.resume ul li {
+    font-size: 18pt;
+    list-style-type: disc;
+    font-weight: bolder;
+}
+.resume ul {
+    font-size:15pt;
+}
