@@ -12,6 +12,8 @@ I will also be modernizing my Resume to better fit the tech
 world, updating my Portfolio. etc..
 
 
+Site Diployment Link : http://andimalfresh.surge.sh/
+
 GitHub Repo Link: https://github.com/andimalfresh/portfolio
 
 Wireframe Link : https://github.com/andimalfresh/portfolio/blob/master/WireFrameCCofSite.png
